@@ -13,3 +13,5 @@ https://github.com/PRomanVl/Virtual_try_on/assets/96573887/e45da616-28ec-4c21-99
 
 
 Для отрисовки трехмерных моделей использовалась библиотека DIRT (https://github.com/pmh47/dirt)
+
+Ссылка на колаб https://drive.google.com/file/d/1nSYrs7Q-6NBDIjzNpugjiewAn0eBdK-_/view?usp=sharing
